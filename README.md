@@ -6,7 +6,6 @@ This project is designed to test and compare various deep learning libraries usi
 
 - `functions/`: Contains the functions for different deep learning libraries.
 - `inputs/`: Contains the input generation strategy.
-- `outputs/`: Contains the output strategy and logging mechanism.
 - `run_tasks/`: Contains the task scheduler for CPU and GPU tasks, and the main test setup script.
 - `tests/`: Contains the individual test scripts for various APIs.
 - `utilities/`: Contains common imports, counters, and summary utilities.
