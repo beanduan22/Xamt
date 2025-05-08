@@ -19,10 +19,9 @@ This project is designed to test and compare various deep learning libraries usi
 
 ## Requirements
 
-- Python 3.x
+- Python 3.8
 - PyTorch
 - TensorFlow
 - Chainer
 - Keras
 - JAX
-- Hypothesis
