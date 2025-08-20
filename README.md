@@ -5,10 +5,6 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 
-# Test Deep Learning Libraries Code
-
-This project is designed to test and compare various deep learning libraries using a structured approach.
-
 ## Directory Structure
 
 - `functions/`: Contains the functions for different deep learning libraries.
