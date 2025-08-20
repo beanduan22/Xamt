@@ -1,3 +1,10 @@
+# Xamt: Cross-Framework API Matching for Testing Deep Learning Libraries
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16910387.svg)](https://doi.org/10.5281/zenodo.16910387)
+[![GitHub release](https://img.shields.io/github/v/release/beanduan22/Xamt)](https://github.com/beanduan22/Xamt/releases)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+
 # Test Deep Learning Libraries Code
 
 This project is designed to test and compare various deep learning libraries using a structured approach.
