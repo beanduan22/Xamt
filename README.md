@@ -35,20 +35,19 @@ Xamt/
 │  ├─ test_setup.py          # Main entry for configuring runs
 │  └─ task_scheduler.py      # Simple CPU/GPU scheduler
 │
-├─ tests/                    # Per-API test specs (e.g., add, pool, relu…)
+├─ tests/                    
 │  ├─ test_add.py
 │  ├─ test_abs.py
 │  ├─ test_adaptive_avg_pool2d.py
 │  └─ ...
 │
-├─ utilities/                # Shared helpers and reporting
+├─ utilities/                
 │  ├─ common_imports.py
 │  ├─ counters.py
 │  ├─ logger.py
 │  └─ summary.py
 │
 ├─ README.md
-├─ aaa.py                    # Scratch/demo scripts (optional)
 └─ try.py                    # Scratch/demo scripts (optional)
 ```
 
