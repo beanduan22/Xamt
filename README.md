@@ -128,15 +128,16 @@ Duan, B. (2025). Xamt: Cross-Framework API Matching for Testing Deep Learning Li
 **BibTeX**
 
 ```bibtex
-@software{xamt_2025,
-  author       = {Duan, Bin},
-  title        = {Xamt: Cross-Framework API Matching for Testing Deep Learning Libraries},
-  year         = {2025},
-  version      = {v1.0.0},
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.16910387},
-  url          = {https://doi.org/10.5281/zenodo.16910387}
-}
+@INPROCEEDINGS{11229819,
+  author={Duan, Bin and Dong, Ruican and Dong, Naipeng and Kim, Dan Dongseong and Yang, Guowei},
+  booktitle={2025 IEEE 36th International Symposium on Software Reliability Engineering (ISSRE)}, 
+  title={XAMT: Cross-Framework API Matching for Testing Deep Learning Libraries}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={191-202},
+  keywords={Deep learning;Computer bugs;Graphics processing units;Medical services;Fuzzing;Reliability engineering;Libraries;Hardware;Software reliability;Testing;Fuzzing;Deep Learning Libraries},
+  doi={10.1109/ISSRE66568.2025.00030}}
 ```
 
 
