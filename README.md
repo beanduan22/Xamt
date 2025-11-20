@@ -117,13 +117,7 @@ python -c "from utilities.summary import summarize; summarize('./logs', out_csv=
 
 ## How to Cite
 
-If you use **Xamt** in academic work, please cite the software artifact:
-
-**Plain text**
-
-```
-Duan, B. (2025). Xamt: Cross-Framework API Matching for Testing Deep Learning Libraries (v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.16910387
-```
+If you use **Xamt** in academic work, please cite the paper:
 
 **BibTeX**
 
