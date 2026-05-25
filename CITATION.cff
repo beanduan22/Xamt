@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: "Xamt++: Adapter-Aware Cross-Framework API Differential Testing"
+message: "If you use this artifact, please cite the XAMT paper and the artifact release."
+type: software
+authors:
+  - family-names: Duan
+    given-names: Bin
+  - family-names: Dong
+    given-names: Ruican
+  - family-names: Dong
+    given-names: Naipeng
+  - family-names: Kim
+    given-names: Dan Dongseong
+  - family-names: Yang
+    given-names: Guowei
+repository-code: "https://github.com/beanduan22/Xamt"
+doi: "10.5281/zenodo.16910387"
+preferred-citation:
+  type: conference-paper
+  title: "XAMT: Cross-Framework API Matching for Testing Deep Learning Libraries"
+  authors:
+    - family-names: Duan
+      given-names: Bin
+    - family-names: Dong
+      given-names: Ruican
+    - family-names: Dong
+      given-names: Naipeng
+    - family-names: Kim
+      given-names: Dan Dongseong
+    - family-names: Yang
+      given-names: Guowei
+  conference:
+    name: "2025 IEEE 36th International Symposium on Software Reliability Engineering (ISSRE)"
+  year: 2025
+  doi: "10.1109/ISSRE66568.2025.00030"

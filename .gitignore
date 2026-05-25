@@ -1,0 +1,29 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environments
+.venv*/
+venv/
+env/
+
+# Local run outputs
+results/
+logs/
+dist/
+build/
+*.egg-info/
+*.jsonl
+*.log
+
+# Backend/compiler dumps
+rank_*/
+om/
+
+# Local scratch files
+*.tmp
+*.bak
